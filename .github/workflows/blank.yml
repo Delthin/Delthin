@@ -42,9 +42,10 @@ jobs:
           sudo chown runner:runner ./github-contribution-grid-snake.gif
           
           # 添加并提交文件
+          git add .
           git add github-contribution-grid-snake-dark.svg
           git add github-contribution-grid-snake.gif
           git commit -m "Generate Contribution Snake"
           
           # 推送更改
-          git push origin output --force
+          git push origin output 
