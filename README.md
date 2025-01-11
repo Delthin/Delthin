@@ -58,7 +58,7 @@
 
 ## 🎨 我的贡献
 
-![Snake animation](https://github.com/Delthin/Delthin/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Delthin/Delthin/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
