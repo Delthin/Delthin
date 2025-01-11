@@ -8,20 +8,36 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
+    
     steps:
-      - uses: actions/checkout@v2
-
-      - uses: Platane/snk@master
+      - uses: actions/checkout@v3
+      
+      - name: Generate Snake
+        uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: Delthin
-          # 使用暗色主题的贪吃蛇
+          github_user_name: DelthinYee
           svg_out_path: dist/github-contribution-grid-snake-dark.svg
           snake_color: '#39d353'
-          
+
       - name: Push to GitHub
-        uses: EndBug/add-and-commit@v7.2.1
-        with:
-          branch: output
-          message: 'Generate Contribution Snake'
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # 确保 output 分支存在
+          git fetch origin output || git branch output
+          git checkout output || git checkout -b output
+          
+          # 移动生成的文件到正确的位置
+          mkdir -p github-contribution-grid-snake-dark.svg
+          mv dist/github-contribution-grid-snake-dark.svg .
+          
+          # 提交更改
+          git add github-contribution-grid-snake-dark.svg
+          git commit -m "Generate Contribution Snake"
+          
+          # 推送到 output 分支
+          git push -u origin output
