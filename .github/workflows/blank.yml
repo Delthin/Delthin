@@ -15,7 +15,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: DelthinYee
+          github_user_name: Delthin
           # 使用暗色主题的贪吃蛇
           svg_out_path: dist/github-contribution-grid-snake-dark.svg
           snake_color: '#39d353'
