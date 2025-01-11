@@ -1,0 +1,27 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # 每12小时运行一次
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: DelthinYee
+          # 使用暗色主题的贪吃蛇
+          svg_out_path: dist/github-contribution-grid-snake-dark.svg
+          snake_color: '#39d353'
+          
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v7.2.1
+        with:
+          branch: output
+          message: 'Generate Contribution Snake'
