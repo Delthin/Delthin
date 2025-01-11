@@ -1,13 +1,21 @@
-# 👋 Hi, I'm Delthin
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi, I'm Delthin
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=南京大学软件学院+本科在读生+喜欢唱Rap篮球;Code+Enthusiast+%7C+Tech+Explorer;AI+%2B+Automation+Tools+Developer" alt="Typing SVG" />
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Delthin/Delthin/main/assets/reimu.gif" width="200">
+      </td>
+      <td align="center">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=南京大学软件学院+本科在读生+喜欢唱Rap篮球;Code+Enthusiast+%7C+Tech+Explorer;AI+%2B+Automation+Tools+Developer" alt="Typing SVG" />
+      </td>
+    </tr>
+  </table>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Delthin&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Delthin?style=social">
+  </p>
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DelthinYee&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Delthin?style=social">
-</p>
 
 ## 🎯 About Me
 
@@ -39,7 +47,7 @@
 ## 🔥 连续提交记录
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Delthin&theme=tokyonight" alt="DelthinYee's streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Delthin&theme=tokyonight" alt="Delthin's streak"/>
 </div>
 
 ## 🏆 GitHub 成就
