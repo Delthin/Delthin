@@ -26,26 +26,23 @@ jobs:
 
       - name: Push to GitHub
         run: |
-          # 配置 git
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # 确保有 output 分支并切换到它
-          git checkout output 2>/dev/null || git checkout -b output
-          
-          # 使用 sudo 复制文件
-          sudo cp dist/github-contribution-grid-snake-dark.svg ./github-contribution-grid-snake-dark.svg
-          sudo cp dist/github-contribution-grid-snake.gif ./github-contribution-grid-snake.gif
-          
-          # 修改文件权限
-          sudo chown runner:runner ./github-contribution-grid-snake-dark.svg
-          sudo chown runner:runner ./github-contribution-grid-snake.gif
-          
-          # 添加并提交文件
-          git add .
-          git add github-contribution-grid-snake-dark.svg
-          git add github-contribution-grid-snake.gif
-          git commit -m "Generate Contribution Snake"
-          
-          # 推送更改
-          git push origin output 
+              # 配置 git
+              git config --global user.name "github-actions[bot]"
+              git config --global user.email "github-actions[bot]@users.noreply.github.com"
+              # 确保有 output 分支并切换到它
+              git checkout output 2>/dev/null || git checkout -b output
+              # 使用 sudo 复制文件
+              sudo cp dist/github-contribution-grid-snake-dark.svg./github-contribution-grid-snake-dark.svg
+              sudo cp dist/github-contribution-grid-snake.gif./github-contribution-grid-snake.gif
+              # 修改文件权限
+              sudo chown runner:runner./github-contribution-grid-snake-dark.svg
+              sudo chown runner:runner./github-contribution-grid-snake.gif
+              # 添加并提交文件
+              git add.
+              git add github-contribution-grid-snake-dark.svg
+              git add github-contribution-grid-snake.gif
+              git commit -m "Generate Contribution Snake"
+              # 拉取远程更新
+              git pull --rebase origin output
+              # 推送更改
+              git push origin output
