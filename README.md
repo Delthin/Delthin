@@ -58,7 +58,29 @@
 
 ## 🎨 我的贡献
 
-![Snake animation](https://raw.githubusercontent.com/Delthin/Delthin/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="Delthin's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Delthin&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=9a00ff&point=00e2ff&area=true&hide_border=true" />
+  </a>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Delthin/Delthin/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Delthin/Delthin/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Delthin/Delthin/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+## 🧩 个性化展示
+
+- 🧠 擅长：自动化工具、AI 应用落地
+- 🛠 常用工具：
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,docker,nodejs,vue,python,java,cpp&theme=dark" alt="tools" />
+  </p>
+- 🎵 兴趣：Rap、篮球、独立游戏
+- 🎯 目标：用技术把繁琐的事自动化
 
 ---
 
