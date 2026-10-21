@@ -1,0 +1,11 @@
+{
+  "name": "delthin-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate-assets.mjs"
+  },
+  "devDependencies": {
+    "opentype.js": "1.3.4"
+  }
+}
