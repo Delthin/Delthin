@@ -13,7 +13,15 @@ Edit `scripts/generate-assets.mjs`, then commit the four generated files in `ass
 
 The README chooses a light or dark banner and a separate composition for screens up to 600 px wide. The animated water rings, cursor, and bars all stop when the viewer enables reduced motion. The banner remains complete when animation is unavailable.
 
-Project descriptions stay in HTML/Markdown so they remain selectable, searchable, and accessible. Links go directly to public repositories.
+Project information stays in HTML/Markdown so it remains selectable, searchable, and accessible. Links go directly to public repositories.
+
+## Recent public projects
+
+`.github/workflows/recent-work.yml` refreshes the four most recently pushed public projects daily at 03:21 UTC. It can also be run from **Actions → Refresh recent public projects → Run workflow**. Repository names, available descriptions, primary languages, and push dates come from the GitHub API. Forks, archived/disabled or empty repositories, and this profile repository are excluded.
+
+For a local refresh, run `npm run update:recent`; `GITHUB_TOKEN` is optional for public API access. Run `npm test` to check filtering, HTML escaping, pagination, and safe updates.
+
+The updater replaces only the `RECENT-WORK` block in the README. API errors preserve the previous content, and unchanged data creates no commit. Education, research interests, and hobbies are edited directly outside that block.
 
 ## Contribution animation
 

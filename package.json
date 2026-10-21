@@ -3,7 +3,9 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "generate": "node scripts/generate-assets.mjs"
+    "generate": "node scripts/generate-assets.mjs",
+    "update:recent": "node scripts/update-recent.mjs",
+    "test": "node --test scripts/update-recent.test.mjs"
   },
   "devDependencies": {
     "opentype.js": "1.3.4"
