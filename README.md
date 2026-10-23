@@ -21,7 +21,7 @@
 <td width="50%" valign="top">
 <h3><a href="https://github.com/Delthin/moon-repomix">moon-repomix ↗</a></h3>
 <p>MoonBit native port of Repomix&#39;s local repository context packaging</p>
-<p><code>MoonBit</code> · <sub>最近推送：2026-10-22 UTC</sub></p>
+<p><code>MoonBit</code> · <sub>最近推送：2026-10-23 UTC</sub></p>
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/Delthin/pi-issue">pi-issue ↗</a></h3>
