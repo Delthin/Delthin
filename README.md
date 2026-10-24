@@ -21,21 +21,22 @@
 <td width="50%" valign="top">
 <h3><a href="https://github.com/Delthin/moon-repomix">moon-repomix ↗</a></h3>
 <p>MoonBit native port of Repomix&#39;s local repository context packaging</p>
-<p><code>MoonBit</code> · <sub>最近推送：2026-10-23 UTC</sub></p>
+<p><code>MoonBit</code> · <sub>最近推送：2026-10-24 UTC</sub></p>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/Delthin/pi-issue">pi-issue ↗</a></h3>
-<p><code>TypeScript</code> · <sub>最近推送：2026-09-19 UTC</sub></p>
+<h3><a href="https://github.com/Delthin/pi-ask">pi-ask ↗</a></h3>
+<p>Turn Pi conversations into Markdown knowledge cards, a three-level knowledge tree, and an offline graph.</p>
+<p><code>TypeScript</code> · <sub>最近推送：2026-10-24 UTC</sub></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/Delthin/minecrag">minecrag ↗</a></h3>
-<p><code>Python</code> · <sub>最近推送：2026-09-12 UTC</sub></p>
+<h3><a href="https://github.com/Delthin/pi-issue">pi-issue ↗</a></h3>
+<p><code>TypeScript</code> · <sub>最近推送：2026-09-19 UTC</sub></p>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/Delthin/thu-graduate-course-helper">thu-graduate-course-helper ↗</a></h3>
-<p><code>JavaScript</code> · <sub>最近推送：2026-09-07 UTC</sub></p>
+<h3><a href="https://github.com/Delthin/minecrag">minecrag ↗</a></h3>
+<p><code>Python</code> · <sub>最近推送：2026-09-12 UTC</sub></p>
 </td>
 </tr>
 </table>
