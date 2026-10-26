@@ -19,24 +19,25 @@
 <table>
 <tr>
 <td width="50%" valign="top">
+<h3><a href="https://github.com/Delthin/ptcg-yiqi">ptcg-yiqi ↗</a></h3>
+<p>一起打牌：面向简中卡池的 PTCG 收藏、组牌与双人对战本地预览，包含三十周年与嗨皮 H1–H6。</p>
+<p><code>TypeScript</code> · <sub>最近推送：2026-10-25 UTC</sub></p>
+</td>
+<td width="50%" valign="top">
 <h3><a href="https://github.com/Delthin/pi-cardex">pi-cardex ↗</a></h3>
 <p>Turn Pi conversations into Markdown knowledge cards, a three-level knowledge tree, and an offline graph.</p>
 <p><code>TypeScript</code> · <sub>最近推送：2026-10-25 UTC</sub></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/Delthin/moon-repomix">moon-repomix ↗</a></h3>
 <p>MoonBit native port of Repomix&#39;s local repository context packaging</p>
 <p><code>MoonBit</code> · <sub>最近推送：2026-10-25 UTC</sub></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/Delthin/pi-issue">pi-issue ↗</a></h3>
 <p><code>TypeScript</code> · <sub>最近推送：2026-09-19 UTC</sub></p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Delthin/minecrag">minecrag ↗</a></h3>
-<p><code>Python</code> · <sub>最近推送：2026-09-12 UTC</sub></p>
 </td>
 </tr>
 </table>
