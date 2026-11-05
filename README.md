@@ -19,25 +19,26 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/Delthin/moon-repomix">moon-repomix ↗</a></h3>
-<p>MoonBit native port of Repomix&#39;s local repository context packaging</p>
-<p><code>MoonBit</code> · <sub>最近推送：2026-11-03 UTC</sub></p>
+<h3><a href="https://github.com/Delthin/dsh-plugins">dsh-plugins ↗</a></h3>
+<p>Independently versioned DSH plugins maintained by Delthin</p>
+<p><code>JavaScript</code> · <sub>最近推送：2026-11-05 UTC</sub></p>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/Delthin/ptcg-yiqi">ptcg-yiqi ↗</a></h3>
-<p>一起打牌：面向简中卡池的 PTCG 收藏、组牌与双人对战本地预览，包含三十周年与嗨皮 H1–H6。</p>
-<p><code>TypeScript</code> · <sub>最近推送：2026-11-02 UTC</sub></p>
+<h3><a href="https://github.com/Delthin/dsh-agent-roles">dsh-agent-roles ↗</a></h3>
+<p>Role management, per-role models and skills for native DeepSeek Harness Agent Teams</p>
+<p><code>JavaScript</code> · <sub>最近推送：2026-11-05 UTC</sub></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/Delthin/pi-cardex">pi-cardex ↗</a></h3>
-<p>Turn Pi conversations into Markdown knowledge cards, a three-level knowledge tree, and an offline graph.</p>
-<p><code>TypeScript</code> · <sub>最近推送：2026-10-25 UTC</sub></p>
+<h3><a href="https://github.com/Delthin/dsh-fast">dsh-fast ↗</a></h3>
+<p>Session-scoped Standard/Fast mode and a compact draggable model picker for DeepSeek Harness.</p>
+<p><code>JavaScript</code> · <sub>最近推送：2026-11-05 UTC</sub></p>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/Delthin/pi-issue">pi-issue ↗</a></h3>
-<p><code>TypeScript</code> · <sub>最近推送：2026-09-19 UTC</sub></p>
+<h3><a href="https://github.com/Delthin/ptcg-yiqi">ptcg-yiqi ↗</a></h3>
+<p>一起打牌：面向简中卡池的 PTCG 收藏、组牌与双人对战本地预览，包含三十周年与嗨皮 H1–H6。</p>
+<p><code>TypeScript</code> · <sub>最近推送：2026-11-04 UTC</sub></p>
 </td>
 </tr>
 </table>
