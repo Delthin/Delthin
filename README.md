@@ -19,26 +19,26 @@
 <table>
 <tr>
 <td width="50%" valign="top">
+<h3><a href="https://github.com/Delthin/dw-periodic-ad">dw-periodic-ad ↗</a></h3>
+<p>周期性监测数据的自适应异常检测：Java 核心、Apache IoTDB UDF 与完整离线汇报</p>
+<p><code>Python</code> · <sub>最近推送：2026-11-06 UTC</sub></p>
+</td>
+<td width="50%" valign="top">
 <h3><a href="https://github.com/Delthin/dsh-plugins">dsh-plugins ↗</a></h3>
 <p>Independently versioned DSH plugins maintained by Delthin</p>
-<p><code>JavaScript</code> · <sub>最近推送：2026-11-05 UTC</sub></p>
+<p><code>JavaScript</code> · <sub>最近推送：2026-11-06 UTC</sub></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/Delthin/dsh-agent-roles">dsh-agent-roles ↗</a></h3>
 <p>Role management, per-role models and skills for native DeepSeek Harness Agent Teams</p>
 <p><code>JavaScript</code> · <sub>最近推送：2026-11-05 UTC</sub></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/Delthin/dsh-fast">dsh-fast ↗</a></h3>
 <p>Session-scoped Standard/Fast mode and a compact draggable model picker for DeepSeek Harness.</p>
 <p><code>JavaScript</code> · <sub>最近推送：2026-11-05 UTC</sub></p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Delthin/ptcg-yiqi">ptcg-yiqi ↗</a></h3>
-<p>一起打牌：面向简中卡池的 PTCG 收藏、组牌与双人对战本地预览，包含三十周年与嗨皮 H1–H6。</p>
-<p><code>TypeScript</code> · <sub>最近推送：2026-11-04 UTC</sub></p>
 </td>
 </tr>
 </table>
