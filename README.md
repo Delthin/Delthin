@@ -19,26 +19,26 @@
 <table>
 <tr>
 <td width="50%" valign="top">
+<h3><a href="https://github.com/Delthin/moon-license-scan">moon-license-scan ↗</a></h3>
+<p>Native MoonBit scanner for per-file license evidence and release review.</p>
+<p><code>MoonBit</code> · <sub>最近推送：2026-11-19 UTC</sub></p>
+</td>
+<td width="50%" valign="top">
 <h3><a href="https://github.com/Delthin/dsh-plugins">dsh-plugins ↗</a></h3>
 <p>Independently versioned DSH plugins maintained by Delthin</p>
 <p><code>JavaScript</code> · <sub>最近推送：2026-11-18 UTC</sub></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/Delthin/moon-repomix">moon-repomix ↗</a></h3>
 <p>MoonBit native port of Repomix&#39;s local repository context packaging</p>
 <p><code>MoonBit</code> · <sub>最近推送：2026-11-11 UTC</sub></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/Delthin/dw-periodic-ad">dw-periodic-ad ↗</a></h3>
 <p>周期性监测数据的自适应异常检测：Java 核心、Apache IoTDB UDF 与完整离线汇报</p>
 <p><code>Python</code> · <sub>最近推送：2026-11-07 UTC</sub></p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Delthin/dsh-agent-roles">dsh-agent-roles ↗</a></h3>
-<p>Role management, per-role models and skills for native DeepSeek Harness Agent Teams</p>
-<p><code>JavaScript</code> · <sub>最近推送：2026-11-05 UTC</sub></p>
 </td>
 </tr>
 </table>
