@@ -21,7 +21,7 @@
 <td width="50%" valign="top">
 <h3><a href="https://github.com/Delthin/dsh-plugins">dsh-plugins ↗</a></h3>
 <p>Independently versioned DSH plugins maintained by Delthin</p>
-<p><code>JavaScript</code> · <sub>最近推送：2026-11-23 UTC</sub></p>
+<p><code>JavaScript</code> · <sub>最近推送：2026-11-26 UTC</sub></p>
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/Delthin/moon-license-scan">moon-license-scan ↗</a></h3>
